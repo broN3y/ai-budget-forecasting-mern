@@ -180,7 +180,7 @@ This is a portfolio project showcasing technical and business capabilities. For 
 **Your Name** - Project Manager & Full-Stack Developer
 - GitHub: [@broN3y](https://github.com/broN3y)
 - LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
+- Email: bhaynirvarma1@gail.com
 
 ## 📄 License
 
